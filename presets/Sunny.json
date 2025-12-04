@@ -1,0 +1,14 @@
+{
+  "algs": {
+    "gray": 75,
+    "maxrgb": 56,
+    "shades": 52,
+    "lab": 22,
+    "hist": 0,
+    "retinex": 0
+  },
+  "brightness": -38,
+  "contrast": 0,
+  "saturation": 240,
+  "temperature": 100
+}
